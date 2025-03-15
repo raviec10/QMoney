@@ -1,0 +1,32 @@
+curl 'https://www.youtube.com/youtubei/v1/comment/create_comment?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8&prettyPrint=false' \
+  -H 'authority: www.youtube.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: SAPISIDHASH 1702398838_e1b74ba58400e50c9aea4ed43a9cbda6223c7d0a' \
+  -H 'content-type: application/json' \
+  -H 'cookie: _ga=GA1.1.433367320.1671871344; _ga_VCGEPY40VB=GS1.1.1675992486.2.1.1675992597.0.0.0; APISID=ytfDk-6f9Q9wtBtJ/A8gr9qNSMyQhMVNwm; HSID=AHMbdBXZIYxV5ByM7; SAPISID=BZXj5YG3Nh4j9QwH/AtKzcNlDJnKmgmypO; SSID=ArA9r1jsHMnSV67kf; __Secure-1PAPISID=BZXj5YG3Nh4j9QwH/AtKzcNlDJnKmgmypO; __Secure-3PAPISID=BZXj5YG3Nh4j9QwH/AtKzcNlDJnKmgmypO; LOGIN_INFO=AFmmF2swRQIgD67DCW5WFwTCPKUG6cA67Zx-FTyMNW2PlqFVe_rbX_wCIQDuMFnApVagtcjuV9uo0Boo4ruEiy9cExJd_sg639Zf4Q:QUQ3MjNmd0FqU0h6YlJUR3hzazNjM1VtR0Q4SDFXVWkwSWNuc0JhaDFSbEVpVlNFRHhvNU9FajRjM3NzMGthbXh6VjVsX2d1ZGJROVFSazgxblRnTUw2djJJMF9rb2pWS3VkUlctN3V2ek12Uk1JQks1dy1ucXdQbUFoWms4QVlmMHFEUWNIdnNCLUZCWU84cjloTFF0eVhUY1ZmRDZCU193; VISITOR_INFO1_LIVE=MGEKYFcPEls; VISITOR_PRIVACY_METADATA=CgJJThICGgA%3D; SID=dQhV1kRVc-Y55uH82cW3rVLLzdYkHFMsS-2BkAu2wMIRWfdt7mCk-7sv2Ro1iFZtCXM5EQ.; __Secure-1PSID=dQhV1kRVc-Y55uH82cW3rVLLzdYkHFMsS-2BkAu2wMIRWfdtdxKAbeY1rNkPz5udYmAdvg.; __Secure-3PSID=dQhV1kRVc-Y55uH82cW3rVLLzdYkHFMsS-2BkAu2wMIRWfdtq2WuM-RuFhoF7eEyZ5dfZw.; YSC=T6nPh-eUUwQ; PREF=tz=Asia.Calcutta&f5=20000&f7=100; wide=1; __Secure-1PSIDTS=sidts-CjABPVxjSvIwLkxt-i_ATNGDOgvlGknIQAAUicbN-VVC4L3IZOC_gHHB4PX3X_Sfz0QQAA; __Secure-3PSIDTS=sidts-CjABPVxjSvIwLkxt-i_ATNGDOgvlGknIQAAUicbN-VVC4L3IZOC_gHHB4PX3X_Sfz0QQAA; SIDCC=ACA-OxP-uRiSrXHCE4FktHYt9PL5mJr3Kt1iEIaXa30O5J31xr7_933phrEQPW2ckjKVEMxtmfE; __Secure-1PSIDCC=ACA-OxN9FM8RoMuCZnnFxORJ2jolSTPUClXLgIKHWWpCZsKb5BFh2A-6fcbThgCtqG0dWYTq2ZM; __Secure-3PSIDCC=ACA-OxM8wN4goute5_sBp3Y8feIKPUd2hvZDMiI8er9IAOsypzr8eNybPIDNwQJRjzSzu9-ykVex' \
+  -H 'origin: https://www.youtube.com' \
+  -H 'referer: https://www.youtube.com/watch?v=RMScMwY2B6Q' \
+  -H 'sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"' \
+  -H 'sec-ch-ua-arch: "x86"' \
+  -H 'sec-ch-ua-bitness: "64"' \
+  -H 'sec-ch-ua-full-version: "109.0.5414.168"' \
+  -H 'sec-ch-ua-full-version-list: "Not_A Brand";v="99.0.0.0", "Google Chrome";v="109.0.5414.168", "Chromium";v="109.0.5414.168"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model;' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "0.3.0"' \
+  -H 'sec-ch-ua-wow64: ?0' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: same-origin' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36' \
+  -H 'x-client-data: CJC2yQEIorbJAQipncoBCPnuygEIlaHLAQiFoM0BCNy9zQEIu8jNAQ==' \
+  -H 'x-goog-authuser: 0' \
+  -H 'x-goog-visitor-id: CgtNR0VLWUZjUEVscyjXk-KrBjIICgJJThICGgA%3D' \
+  -H 'x-origin: https://www.youtube.com' \
+  -H 'x-youtube-bootstrap-logged-in: true' \
+  -H 'x-youtube-client-name: 1' \
+  -H 'x-youtube-client-version: 2.20231211.01.00' \
+  --data-raw $'{"context":{"client":{"hl":"en","gl":"IN","remoteHost":"2401:4900:8245:caa3:862:b563:dd41:2c23","deviceMake":"","deviceModel":"","visitorData":"CgtNR0VLWUZjUEVscyjXk-KrBjIICgJJThICGgA%3D","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36,gzip(gfe)","clientName":"WEB","clientVersion":"2.20231211.01.00","osName":"Windows","osVersion":"10.0","originalUrl":"https://www.youtube.com/watch?list=RDMM&v=8AedZtuoVSg&embeds_referring_euri=https%3A%2F%2Fwww.crio.do%2F&embeds_referring_origin=https%3A%2F%2Fcrio.do&source_ve_path=MTM5MTE3LDEzOTExNyww&feature=emb_rel_end","platform":"DESKTOP","clientFormFactor":"UNKNOWN_FORM_FACTOR","configInfo":{"appInstallData":"CNeT4qsGEIPfrwUQ-5-wBRDr6P4SEKKSsAUQ0I2wBRDNlbAFEKy3rwUQqJqwBRCrgrAFEL-dsAUQ6J2wBRCEha8FEJj8_hIQ26-vBRC8-a8FEKn3rwUQ0OKvBRDh8q8FEIjjrwUQlPr-EhDcgrAFENnJrwUQmZGwBRC9tq4FEOrDrwUQl4OwBRC3nbAFEOLUrgUQ65OuBRCwnrAFEKXC_hIQ3ej-EhDX6a8FEKKBsAUQvvmvBRCT_K8FEPGcsAUQt-r-EhC9mbAFENqYsAUQyfevBRC4i64FEMzfrgUQ9fmvBRCmoLAFEOe6rwUQmvCvBRClkLAFEPyFsAUQrtT-EhDcmbAFENWIsAUQ1KGvBRCIh7AFELfvrwUQvYqwBRD-n7AFEJXPrwUQzK7-EhC7jrAFEKaasAUQ5LP-EhCmgbAFEPqfsAUQx4OwBRDnhv8SEO6irwUQ0-GvBRCei7AFEOmMsAUQieiuBRCZlLAFEJqdsAUQ_4P_EhCR_K8F"},"userInterfaceTheme":"USER_INTERFACE_THEME_LIGHT","timeZone":"Asia/Calcutta","browserName":"Chrome","browserVersion":"109.0.0.0","acceptHeader":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9","deviceExperimentId":"ChxOek14TVRjME5UVTFNek0zTkRneE5UazBNUT09ENeT4qsGGNeT4qsG","screenWidthPoints":741,"screenHeightPoints":625,"screenPixelDensity":1,"screenDensityFloat":1,"utcOffsetMinutes":330,"connectionType":"CONN_CELLULAR_4G","memoryTotalKbytes":"4000000","mainAppWebInfo":{"graftUrl":"https://www.youtube.com/watch?v=RMScMwY2B6Q","pwaInstallabilityStatus":"PWA_INSTALLABILITY_STATUS_CAN_BE_INSTALLED","webDisplayMode":"WEB_DISPLAY_MODE_BROWSER","isWebNativeShareAvailable":false}},"user":{"lockedSafetyMode":false},"request":{"useSsl":true,"internalExperimentFlags":[],"consistencyTokenJars":[]},"clientScreenNonce":"MC4wNzQ4Njc0OTE4NzQwNTgzOQ..","clickTracking":{"clickTrackingParams":"CMkDEPBbIhMIydb4s6mKgwMVqladCR0ZTAdr"},"adSignalsInfo":{"params":[{"key":"dt","value":"1702398436782"},{"key":"flash","value":"0"},{"key":"frm","value":"0"},{"key":"u_tz","value":"330"},{"key":"u_his","value":"3"},{"key":"u_h","value":"768"},{"key":"u_w","value":"1366"},{"key":"u_ah","value":"728"},{"key":"u_aw","value":"1366"},{"key":"u_cd","value":"24"},{"key":"bc","value":"31"},{"key":"bih","value":"625"},{"key":"biw","value":"724"},{"key":"brdim","value":"0,0,0,0,1366,0,1366,728,741,625"},{"key":"vis","value":"1"},{"key":"wgl","value":"true"},{"key":"ca_type","value":"image"}],"bid":"ANyPxKr9LL72zOCLbFVjMNkXsalUDUTrVARIFp9MN1WnPvxeZmJzQ85ldyq1z8Fs2MDwb3kt66xVL4_8S1rPJaonM6ITyiwVTw"}},"createCommentParams":"EgtSTVNjTXdZMkI2USoCCABQBw%3D%3D","commentText":"just wow learned today\u0021\u0021\u0021\u0021"}' \
+  --compressed
